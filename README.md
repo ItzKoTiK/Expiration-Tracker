@@ -16,6 +16,12 @@ A thing to manage food items by tracking their expiration dates and stuff
 2. Download the source code from the repository.
 3. Install any required libraries, primarily Tkinter (usually included with Python).
 
+OR
+
+1. Download release.zip
+2. Unzip it
+3. Run
+
 ## Default Expiration Times
 The application includes preset expiration times for common food items, which can be referenced if a user does not provide an expiration time when adding a new item (lower case singular - e.g apple, banana).
 
