@@ -12,12 +12,6 @@ A thing to manage food items by tracking their expiration dates and stuff
 
 ## Installation
 
-1. Ensure you have Python installed on your machine.
-2. Download the source code from the repository.
-3. Install any required libraries, primarily Tkinter (usually included with Python).
-
-OR
-
 1. Download release.zip
 2. Unzip it
 3. Run
