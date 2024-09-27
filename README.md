@@ -7,8 +7,6 @@
 - **Edit Items**: Modify existing item details, including names and expiration times.
 - **Delete Items**: Remove specific items or all expired items from the list.
 - **Copy Items**: Copy all item names to the clipboard for easy sharing or reference.
-- **Scrollable Interface**: Navigate through the list of items using a scrollable frame.
-- **Persistent Settings**: Remembers the last window size and position for a seamless user experience.
 - **Default Expiration**: TimesThe application includes preset expiration times for common food items, which can be referenced if a user does not provide an expiration time when adding a new item (lower case singular - e.g apple, banana).
 
 ## Installation
