@@ -9,15 +9,13 @@ A thing to manage food items by tracking their expiration dates and stuff
 - **Copy Items**: Copy all item names to the clipboard for easy sharing or reference.
 - **Scrollable Interface**: Navigate through the list of items using a scrollable frame.
 - **Persistent Settings**: Remembers the last window size and position for a seamless user experience.
+- **Default Expiration**: TimesThe application includes preset expiration times for common food items, which can be referenced if a user does not provide an expiration time when adding a new item (lower case singular - e.g apple, banana).
 
 ## Installation
 
 1. Download release.zip
 2. Unzip it
 3. Run
-
-## Default Expiration Times
-The application includes preset expiration times for common food items, which can be referenced if a user does not provide an expiration time when adding a new item (lower case singular - e.g apple, banana).
 
 ## File Management
 
